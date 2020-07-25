@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kids Magazine</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="sample_story_content">Please wait while the story is loading...</string>
+    <string name="speak_english">Speak English!</string>
+    <string name="speak_bengali">Speak Bengali!</string>
+    <string name="translating">Transliterating ...</string>
+    <string name="welcome_to_tale_tale">Welcome to Kids Magazine!</string>
+    <string name="choose">Choose</string>
+    <string name="upload">Upload</string>
+</resources>

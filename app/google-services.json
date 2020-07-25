@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1083805327169",
+    "firebase_url": "https://story-app-master-fc622.firebaseio.com",
+    "project_id": "story-app-master-fc622",
+    "storage_bucket": "story-app-master-fc622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083805327169:android:22b2c05f7291cc86964bc0",
+        "android_client_info": {
+          "package_name": "com.iitbhu.KidsMagazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083805327169-q1lbrqve1jrt81ftgcbt935ln7719tf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iitbhu.KidsMagazine",
+            "certificate_hash": "7cdc004391bad0fdaf76f4b72aa88324317f65ed"
+          }
+        },
+        {
+          "client_id": "1083805327169-44abu70kcnpnhimvj7lajvsaabg8ju7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ct1e0J_Xgys-TEHZoF8AiGNLcFmLCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083805327169-44abu70kcnpnhimvj7lajvsaabg8ju7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083805327169:android:39090651b957c7b5964bc0",
+        "android_client_info": {
+          "package_name": "com.xstudioo.taletale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083805327169-upsdilnlr91jas76qp1g5qvgg6lhprl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xstudioo.taletale",
+            "certificate_hash": "5f6b97e5e86da0b1f67029b177d48692d3cd1571"
+          }
+        },
+        {
+          "client_id": "1083805327169-l33pec4pchbvq6hmi4lk1vg4japav1th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xstudioo.taletale",
+            "certificate_hash": "872ac2409eced269ea5db33e3a9c289f6573ca10"
+          }
+        },
+        {
+          "client_id": "1083805327169-0t9o9fsf28su90shmdlhbu3cpmo8qfut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xstudioo.taletale",
+            "certificate_hash": "7cdc004391bad0fdaf76f4b72aa88324317f65ed"
+          }
+        },
+        {
+          "client_id": "1083805327169-44abu70kcnpnhimvj7lajvsaabg8ju7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ct1e0J_Xgys-TEHZoF8AiGNLcFmLCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083805327169-44abu70kcnpnhimvj7lajvsaabg8ju7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

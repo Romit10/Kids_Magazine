@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#D7FBCB"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/BN"
+        android:layout_width="214dp"
+        android:layout_height="wrap_content"
+        android:textColor="#0f6537"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="412dp"
+        android:background="#a0f684"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Bengali" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:background="@color/colorPrimaryDark"
+        android:fontFamily="@font/martel_extralight"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Select Your Language"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/KN"
+        android:layout_width="214dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="320dp"
+        android:background="#a0f684"
+        android:textColor="#0f6537"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Kannada" />
+
+</RelativeLayout>
